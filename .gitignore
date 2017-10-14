@@ -5,7 +5,7 @@
 *.elf
 
 # make result file
-src/main
+tests/main
 
 # Precompiled Headers
 *.gch
@@ -40,6 +40,7 @@ src/main
 *.VC.db
 *.VC.VC.opendb
 *.vcxproj
+*.vcxproj.user
 *.vcxproj.filters
 *.suo
 
